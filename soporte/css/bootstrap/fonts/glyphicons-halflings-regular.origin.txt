@@ -1,0 +1,3 @@
+Uri: http://htmlcoder.me/preview/idea/v.1.0/bootstrap/fonts/glyphicons-halflings-regular.svg
+File Name: C:\Users\admin\Desktop\htmlcoder.me\preview\idea\v.1.0\bootstrap\fonts\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml

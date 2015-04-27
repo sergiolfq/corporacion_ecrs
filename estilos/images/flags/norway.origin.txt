@@ -1,0 +1,3 @@
+Uri: http://www.quorion.com/images/flags/norway.png
+File Name: c:\Downloaded Web Sites\www.quorion.com\images\flags\norway.png
+Content Type: image/png

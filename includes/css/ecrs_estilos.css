@@ -1,0 +1,867 @@
+a.aoverunderline:hover{ text-decoration:underline !important}
+.titulos {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 26px;
+	font-weight: normal;
+	color: #253139;
+	text-decoration: none;
+	background-color: #efefef;
+	height: 90px;
+	width: 955px;
+	text-align: left;
+	margin-left: 0px;
+	padding-left: 22px;
+}
+.text_footer {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	color: #898989;
+	text-decoration: none;
+}
+td{ text-align:justify; }
+body
+ {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	color: #363636;
+	text-decoration: none;
+	background-image: url(/images/fondos/fondo_gray.jpg);
+	background-repeat: repeat-x;
+	background-position: bottom;
+	text-align:justify;
+}
+.franja_top {
+	background-color: #a30327;
+	height: 50px;
+	width: 100%;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: normal;
+	color: #FFF;
+	text-decoration: none;
+}
+
+#apDiv1 {
+	position:absolute;
+	left:1176px;
+	top:0px;
+	width:66px;
+	height:75px;
+	z-index:1;
+}
+
+.buscador {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	color: #333;
+	text-decoration: none;
+	background-image: url(/images/tope/buscador.png);
+	height: 30px;
+	width: 261px;
+}
+input {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	color: #333;
+	background-color: #FFF;
+	border: 1px solid #666666;
+}
+
+.textgris15 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: lighter;
+	color: #737373;
+	text-decoration: none;
+}
+.rojosubrayado {
+	font-weight: normal;
+	color: #a00326;
+	text-decoration: underline;
+}
+
+a:link {
+	color: #a00326;
+	text-decoration: underline;
+}
+a:visited {
+	text-decoration: none;
+	color: #a00326;
+}
+a:hover {
+	text-decoration: none;
+	color: #333;
+}
+a:active {
+	text-decoration: none;
+	color: #A00326;
+}
+.botonerafond {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+	text-transform: uppercase;
+	color: #FFF;
+	text-decoration: none;
+	background-image: url(/images/fondos/fondo_bot.jpg);
+	background-repeat: repeat-x;
+	height: 35px;
+	width: 980px;
+}
+.fondoanima {
+	background-image: url(/images/fondos/fondo_anima.jpg);
+	background-repeat: repeat-x;
+	height: 415px;
+	width: 980px;
+	background-position: top;
+}
+.borde_shadow {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	color: #363636;
+	text-decoration: none;
+	-moz-border-radius: 6px;
+	-webkit-border-radius: 6px;
+	border-radius: 6px;
+	box-shadow: 0px 0px 8px #a5a5a5;
+	-webkit-box-shadow: 0px 0px 8px #a5a5a5;
+	-moz-box-shadow: 0px 0px 8px #a5a5a5;
+	background-image: url(/images/fondos/fondo_grisdegrade.jpg);
+	background-repeat: repeat-x;
+	background-position: bottom;
+	border: 1px solid #FFF;
+	line-height: 15px;
+}
+.productos_round_box {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	color: #6c6c6c;
+	text-decoration: none;
+	-moz-border-radius: 6px;
+	-webkit-border-radius: 6px;
+	border-radius: 6px;
+	box-shadow: 0px 1px 4px #c6c6c6;
+	-webkit-box-shadow: 1px 0px 4px #c6c6c6;
+	-moz-box-shadow: 0px 1px 4px #c6c6c6;
+	border: 1px solid #FFF;
+	line-height: 15px;
+	background-color: #f3f3f3;
+	text-align: justify;
+	padding-top: 16px;
+	padding-right: 20px;
+	padding-bottom: 16px;
+	padding-left: 16px;
+}
+.soporte_round_box {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	color: #6c6c6c;
+	text-decoration: none;
+	-moz-border-radius: 6px;
+	-webkit-border-radius: 6px;
+	border-radius: 6px;
+	border: 1px solid #d9d9d9;
+	line-height: 15px;
+	background-color: #FFF;
+	text-align: justify;
+	padding-top: 16px;
+	padding-right: 16px;
+	padding-bottom: 16px;
+	padding-left: 16px;
+}
+.productos_round_titulos {
+	font-family: arial;
+	font-size: 11px;
+	font-weight: normal;
+	color: #6c6c6c;
+	text-decoration: none;
+	-moz-border-radius: 6px;
+	-webkit-border-radius: 6px;
+	border-radius: 6px;
+	box-shadow: 0px 1px 4px #c6c6c6;
+	-webkit-box-shadow: 1px 0px 4px #c6c6c6;
+	-moz-box-shadow: 0px 1px 4px #c6c6c6;
+	border: 1px solid #FFF;
+	line-height: 15px;
+	background-image: url(/images/fondos/titulos_fondo.jpg);
+	background-repeat: repeat-x;
+	background-position: bottom;
+	height: 42px;
+	text-align: left;
+	padding-left: 13px;
+}
+.fotoborder {
+	border: 1px solid #a3a3a3;
+}
+
+.testimonios_text {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: italic;
+	font-weight: normal;
+	color: #5d5d5d;
+	text-decoration: none;
+	text-align: justify;
+}
+.testimonios_text2 {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-style: italic;
+	font-weight: normal;
+	color: #5d5d5d;
+	text-decoration: none;
+	line-height: 19px;
+	text-align: justify;
+}
+.testimonios_nombre {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: bold;
+	color: #af072d;
+	text-decoration: none;
+}
+.testimoniofoto_peq {
+	border: 8px solid #FFF;
+	box-shadow: 0px 1px 4px #c6c6c6;
+	-webkit-box-shadow: 1px 0px 4px #c6c6c6;
+	-moz-box-shadow: 0px 1px 4px #c6c6c6;
+}
+.noticias_round_box {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	color: #414141;
+	text-decoration: none;
+	-moz-border-radius: 6px;
+	-webkit-border-radius: 6px;
+	border-radius: 6px;
+	border: 1px solid #e0e0e0;
+	line-height: 15px;
+	background-color: #f3f3f3;
+	padding: 16px;
+	text-align: left;
+}
+.noticiahome_titulares {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #af072d;
+	text-decoration: underline;
+	line-height: 14px;
+}
+.noticiahome_resumen {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	color: #666;
+	text-decoration: none;
+	line-height: 16px;
+	text-align: left;
+}
+.noticiahome_fecha {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	color: #000;
+	text-decoration: none;
+}
+.noticias_empresa {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	line-height: 22px;
+	font-weight: bold;
+	color: #9A1724;
+	text-decoration: none;
+	list-style-position: outside;
+	list-style-type: circle;
+}
+.noticias_titulo {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	line-height: 18px;
+	font-weight: bold;
+	color: #3e3e3e;
+	text-decoration: none;
+	text-align: left;
+}
+.noticias_detalletitulo {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 22px;
+	font-weight: bold;
+	color: #A30327;
+	text-decoration: none;
+}
+.noticias_autorizaciones {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	line-height: 22px;
+	font-weight: bold;
+	color: #9A1724;
+	text-decoration: none;
+	list-style-position: outside;
+	list-style-type: circle;
+	text-align: left;
+}
+.noticias_autorititulo {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	line-height: 15px;
+	font-weight: bold;
+	color: #3e3e3e;
+	text-decoration: none;
+}
+.noticias_autoritext {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 16px;
+	font-weight: normal;
+	color: #3e3e3e;
+	text-decoration: none;
+}
+.arial13boldgris {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+	color: #404040;
+	text-decoration: none;
+}
+.arial13gris {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: normal;
+	color: #404040;
+	text-decoration: none;
+	line-height: 22px;
+}
+.productos_titulosred {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #a60007;
+	text-decoration: none;
+}
+.productos_sumariohome {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: normal;
+	color: #6e6e6e;
+	text-decoration: none;
+	text-align:justify;
+}
+.texto_general {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	line-height: 21px;
+	font-weight: normal;
+	color: #515151;
+	text-decoration: none;
+	text-align: justify;
+}
+.trebuchet-rojo13bold {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+	color: #9e0427;
+	text-decoration: none;
+}
+.contacto {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: normal;
+	color: #FFF;
+	text-decoration: none;
+	background-color: #3c3c3c;
+	text-align: left;
+}
+.trebuchet-blanco25 {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 25px;
+	font-weight: normal;
+	color: #FFF;
+	text-decoration: none;
+}
+.producto_tituhome {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	color: #971624;
+	text-decoration: none;
+	line-height: 25px;
+	text-align: left;
+	padding: 0 10px;
+}
+.productodeta_titulo {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 22px;
+	font-weight: bold;
+	color: #971624;
+	text-decoration: none;
+	line-height: 25px;
+	text-align: left;
+}
+.productodeta_text {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	line-height: 18px;
+	color: #6e6e6e;
+	text-decoration: none;
+	font-weight: normal;
+	text-align: justify;
+}
+.productodeta_redtext {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #a60007;
+	text-decoration: none;
+}
+.productodeta_caract1 {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 12px;
+	line-height: 19px;
+	font-weight: normal;
+	color: #8c8c8c;
+	text-decoration: none;
+}
+.productodeta_caract4 {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 12px;
+	line-height: 19px;
+	font-weight: normal;
+	color: #9D1724;
+	text-decoration: none;
+}
+.productodeta_caract2 {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 12px;
+	line-height: 19px;
+	font-weight: normal;
+	color: #494949;
+	text-decoration: none;
+}
+.productodeta_caract3 {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 13px;
+	line-height: 19px;
+	font-weight: bold;
+	color: #333;
+	text-decoration: none;
+}
+.barra_productos {
+	background-image: url(/images/fondos/fondo_barraproduct.jpg);
+	background-repeat: repeat-x;
+	background-position: top;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	border-radius: 15px;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+	color: #FFF;
+	height: 37px;
+}
+.productodeta_boxgris {
+	color: #453b3b;
+	background-color: #dddddd;
+	-moz-border-radius: 12px;
+	-webkit-border-radius: 12px;
+	border-radius: 12px;
+}
+.producto_sumariohome {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 15px;
+	color: #6e6e6e;
+	text-decoration: none;
+	font-weight: normal;
+	text-align: left;
+	padding: 0 10px;
+	text-align:justify;
+}
+.trebuchet_gris20 {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 21px;
+	line-height: 22px;
+	font-weight: normal;
+	color: #253139;
+	text-decoration: none;
+}
+.trebuchet_rojo20 {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 21px;
+	line-height: 22px;
+	font-weight: normal;
+	color: #b0072d;
+	text-decoration: none;
+}
+.trebuchet_gris15 {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	line-height: 22px;
+	font-weight: normal;
+	color: #253139;
+	text-decoration: none;
+}
+.trebuchet_gris16bold {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	line-height: 22px;
+	font-weight: bold;
+	color: #253139;
+	text-decoration: none;
+}
+.trebuchet_gris14 {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: normal;
+	color: #253139;
+	text-decoration: none;
+}
+.trebuchet_gris14claro {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    color: #253139;
+    text-decoration: none;
+}
+.trebuchet_gris12 {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	color: #253139;
+	text-decoration: none;
+	line-height: 18px;
+}
+.menu_off {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #FFF;
+	text-decoration: none;
+	background-image: url(/images/fondos/bott_off.jpg);
+	background-repeat: repeat-x;
+	height: 26px;
+	list-style-position: outside;
+	list-style-image: url(/images/iconos/flechita_blanca.png);
+	text-align: left;
+	text-indent: 12px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+}
+.menu_on {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #FFF;
+	text-decoration: none;
+	background-image: url(/images/fondos/bott_on.jpg);
+	background-repeat: repeat-x;
+	height: 26px;
+	list-style-position: outside;
+	list-style-image: url(/images/iconos/flechita_blanca.png);
+	text-align: left;
+	text-indent: 12px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+}
+
+ 
+
+.eras{ font-family:'Conv_ERASDEMI',Sans-Serif; font-weight:normal }
+ a.menuppal{
+	 font-family:'Conv_ERASDEMI',Sans-Serif;
+	color:#FFF !important;
+	font-size:13px !important;
+	text-decoration:none !important;
+	font-weight:lighter
+	}
+ a.menuppal:hover{ color:#CCCCCC !important}
+ .rojo17 { font-size:17px; color:#a30327; }
+  .rojo20 { font-size:20px; color:#a30327; }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+.menudep{position:absolute; text-align: left;}
+.menudep ul .item{display:none; line-height:24px;}
+.menudep li.top{ list-style:none; background:none; text-align:left;}
+.menudep a{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+	font-weight:bold;
+	color:#fff;
+	text-decoration:none;
+	}
+.menudep li {
+	list-style-position:inside;
+	list-style-image: url(/images/iconos/flechita_blanca.png);
+	width: 210px;
+	white-space:nowrap;
+	text-decoration: none;	
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #FFF;
+	text-decoration: none;
+	background-image: url(/images/fondos/bott_on.jpg);
+	background-repeat: repeat-x;
+	height: 26px;
+	text-indent: 12px;
+	vertical-align: middle;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	
+}
+.menudep li:hover .item:hover {
+	
+}
+.menudep ul:hover .item{
+	display:list-item
+	
+}
+.menudep ul:hover .item:hover{
+	background-image: url(/images/fondos/bott_off.jpg);
+}
+.menudep  .top{ margin-bottom:0px;}
+.menudep ul{width:100%;float:left;margin:0px;padding:0px; }
+.clear{clear:both;height:10px;}
+
+
+
+
+
+
+#containermnu{
+	margin-top:-7px;
+	width:100%;
+	position:relative;
+	z-index:5000;
+	text-align:center;
+}
+.menudep2{position:absolute; z-index:1000;white-space:nowrap; left:0px; margin:auto; }
+.menudep2 ul .top{
+	margin-bottom:9px;
+}
+.menudep2 ul .item{
+	display:none; 
+	margin:0px; padding:0px; text-align:left;
+	font-family:Arial, Helvetica, sans-serif !important;
+	font-weight:bold !important;
+	font-size:11px;
+}
+.menudep2 ul:hover .item{
+	padding-left:12px;
+	width:220px;
+	height: 26px;
+	background: url(/images/fondos/bott_on.jpg) repeat-x;
+	overflow:hidden;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	text-decoration: none;
+	display:block;
+}
+.menudep2 ul:hover .item:hover{
+	background-image: url(/images/fondos/bott_off.jpg);
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	text-decoration: none;	
+}
+.menudep2  div{ background:url(/images/iconos/flechita_blanca.png) no-repeat; padding-left:12px; display:table-cell; background-position:0px 8px; padding-top:7px; 
+}
+.minus25{ margin-left:-25px !important;}
+
+.menudep2 ul:hover .item a{color:#ffffff;text-decoration:none; }
+.menudep2 ul:hover .item a:hover{ }
+
+.menudep2 ul{float:left;margin:0px;padding:0px;list-style:none; margin:0 25px; }
+
+a.footerlnk{ color:#FFFFFF; text-decoration:none}
+
+.barra1{
+	background:url(/images/titulos/barra1.jpg) no-repeat; width:650px; height:42px;
+	display:table-cell;
+	vertical-align:middle;
+	text-align:left;
+	font-weight:lighter;
+	padding-left:22px;
+	font-family:'Conv_ERASDEMI',Sans-Serif;
+	font-size:19px;
+	color:#FFFFFF;
+}
+.barra2{
+	background:url(/images/titulos/barra2.jpg) no-repeat; width:306px; height:42px;
+	display:table-cell;
+	vertical-align:middle;
+	text-align:left;
+	font-weight:lighter;
+	padding-left:22px;
+	font-family:'Conv_ERASDEMI',Sans-Serif;
+	font-size:19px;
+	color:#FFFFFF;
+}
+.barra3{
+	background:url(/images/titulos/barra3.jpg) no-repeat; 
+	width:209px; 
+	height:28px;
+	padding-top:5px;
+	display:block;
+	vertical-align:middle;
+	text-align:left;
+	font-weight:normal;
+	padding-left:10px;
+	font-family:'Conv_ERASDEMI',Sans-Serif;
+	font-size:16px;
+	color:#FFFFFF;
+}
+.conectese{
+	color:#a30327;
+    font-family:'Conv_ERASDEMI',Sans-Serif;
+	font-size:18px;
+	border-bottom:1px dotted #999;
+	text-align:left;
+	font-weight:normal;
+	padding-bottom:5px;
+	display:table-cell;
+}
+
+.leertodas{ 
+	color:#a30327;
+	font-family:'Conv_ERASDEMI',Sans-Serif;
+	font-size:16px;
+	text-decoration:none;
+}
+.leertodasdiv{
+	width:90%;
+	border-top:1px dotted #999;
+	text-align:left;
+	font-weight:normal;
+	padding-top:5px;
+	display: block;
+}
+
+.leermas{ 
+	color:#a30327;
+	font-family:'Conv_ERASDEMI',Sans-Serif;
+	font-size:12px;
+	text-decoration:none;
+}
+
+.leermasdiv{
+	width:100%;
+	margin-top:5px;
+	border-bottom:1px dotted #999;
+	text-align:left;
+	font-weight:normal;
+	padding-bottom:5px;
+	display: block;
+}
+
+a.tab1prods{ text-decoration:none; color:#453b3b; }
+.tab1prods div{ height:26px; margin-top:0px;}
+.tab1prods div:hover, .tab1prodssel div{ background:url(/images/iconos/triange_gray.png) center bottom no-repeat; height:26px;}
+a:hover.tab1prods, a.tab1prodssel{ color:#900021;text-decoration:none; }
+
+
+
+
+a.tab2prods{ text-decoration:none; color:#FFFFFF;  font-family:'Conv_ERASDEMI',Sans-Serif !important ; font-size:16px; font-weight:normal  }
+.tab2prods div{ height:28px; margin-top:9px; }
+
+.tab2prods div:hover, .tab2prodssel div{ background:url(/images/iconos/triangle_white.png) center bottom no-repeat; height:28px; margin-top:9px;}
+a:hover.tab2prods, a.tab2prodssel{ color:#FFFFFF;text-decoration:none;  font-family:'Conv_ERASDEMI',Sans-Serif !important ; font-size:16px; font-weight:normal;}
+
+
+.botoncot{ background-color:#2c2e3a; color:#ffffff !important; -moz-border-radius: 10px;
+border-radius: 10px; font-size:12px; font-weight:400; padding:4px 10px; border:1px solid #2c2e3a }
+
+.botoncot:hover{ background-color:#aa1535 }
+
+.azuloscuroG{ background-color:#333; border-bottom:1px solid #999; color:#fff; font-weight:bold; padding:0 8px}
+
+.tablaBgPuntos{ border:1px dotted #666666; margin:0 20px 0 20px}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.Mapa {	font-size: 24px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: normal;
+}
+.titulo1 {font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	color: #333;
+}
+.punto {
+	color: #FFF;
+	font-size: 9px;
+}
+.texto2 {	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #666;
+	text-align: left;
+	vertical-align: top;
+	font-weight:normal;
+}
+.titulo21 {	font-family: Verdana, Geneva, sans-serif;
+	font-size: 14px;
+	color: #a30327;
+	font-weight: bold;
+}
+.texto11 {font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #666;
+	text-align: justify;
+}
+.texto12 {	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #666;
+	text-align: justify;
+	font-weight:100;
+}

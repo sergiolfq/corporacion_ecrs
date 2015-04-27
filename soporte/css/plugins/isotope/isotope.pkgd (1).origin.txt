@@ -1,0 +1,3 @@
+Uri: http://www.htmlcoder.me/preview/idea/v.1.0/plugins/isotope/isotope.pkgd.min.js
+File Name: C:\Users\admin\Desktop\htmlcoder.me\preview\idea\v.1.0\plugins\isotope\isotope.pkgd (1).js
+Content Type: application/javascript

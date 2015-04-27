@@ -1,0 +1,3 @@
+Uri: http://www.quorion.com/images/icons/bar-code-icon.png
+File Name: c:\Downloaded Web Sites\www.quorion.com\images\icons\bar-code-icon.png
+Content Type: image/png

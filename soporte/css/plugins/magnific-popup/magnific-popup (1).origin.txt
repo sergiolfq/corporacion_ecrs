@@ -1,0 +1,3 @@
+Uri: http://www.htmlcoder.me/preview/idea/v.1.0/plugins/magnific-popup/magnific-popup.css
+File Name: C:\Users\admin\Desktop\htmlcoder.me\preview\idea\v.1.0\plugins\magnific-popup\magnific-popup (1).css
+Content Type: text/css

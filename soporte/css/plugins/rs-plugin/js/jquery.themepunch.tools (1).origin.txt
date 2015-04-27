@@ -1,0 +1,3 @@
+Uri: http://www.htmlcoder.me/preview/idea/v.1.0/plugins/rs-plugin/js/jquery.themepunch.tools.min.js
+File Name: C:\Users\admin\Desktop\htmlcoder.me\preview\idea\v.1.0\plugins\rs-plugin\js\jquery.themepunch.tools (1).js
+Content Type: application/javascript

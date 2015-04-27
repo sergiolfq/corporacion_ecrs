@@ -1,0 +1,3 @@
+Uri: http://www.quorion.com/images/flags/usa.png
+File Name: c:\Downloaded Web Sites\www.quorion.com\images\flags\usa.png
+Content Type: image/png

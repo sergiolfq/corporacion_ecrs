@@ -1,0 +1,3 @@
+Uri: http://www.htmlcoder.me/preview/idea/v.1.0/fonts/font-awesome/fonts/fontawesome-webfont.eot?v=4.2.0
+File Name: C:\Users\admin\Desktop\htmlcoder.me\preview\idea\v.1.0\fonts\font-awesome\fonts\fontawesome-webfont (2).eot
+Content Type: application/vnd.ms-fontobject

@@ -1,0 +1,3 @@
+Uri: http://www.htmlcoder.me/preview/idea/v.1.0/bootstrap/fonts/glyphicons-halflings-regular.eot?
+File Name: C:\Users\admin\Desktop\htmlcoder.me\preview\idea\v.1.0\bootstrap\fonts\glyphicons-halflings-regular (3).eot
+Content Type: application/vnd.ms-fontobject

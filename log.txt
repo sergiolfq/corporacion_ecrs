@@ -1,0 +1,2172 @@
+==========================================June 18, 2013, 4:34 pm / Client: 190.203.108.10==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEw=
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================June 18, 2013, 4:34 pm / Client: 190.203.108.10==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEw=
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================June 19, 2013, 8:36 am / Client: 190.203.108.10==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEw=
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================June 19, 2013, 8:42 am / Client: 190.203.108.10==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEw=
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================June 19, 2013, 8:53 am / Client: 190.203.108.10==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEw=
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================June 24, 2013, 10:16 am / Client: 186.89.11.114==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL and tipo_op = 1 / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEwgYW5kIHRpcG9fb3AgPSAx
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================June 28, 2013, 5:17 am / Client: 87.139.84.30==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL and tipo_op = 1 / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEwgYW5kIHRpcG9fb3AgPSAx
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================June 28, 2013, 8:22 am / Client: 190.203.108.10==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL and tipo_op = 1 / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEwgYW5kIHRpcG9fb3AgPSAx
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================July 9, 2013, 2:41 pm / Client: 186.92.18.35==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL and tipo_op = 1 / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEwgYW5kIHRpcG9fb3AgPSAx
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================July 10, 2013, 3:07 pm / Client: 186.92.18.35==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL and tipo_op = 1 / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEwgYW5kIHRpcG9fb3AgPSAx
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================July 11, 2013, 3:21 pm / Client: 190.207.141.13==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL and tipo_op = 1 / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEwgYW5kIHRpcG9fb3AgPSAx
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================July 11, 2013, 3:22 pm / Client: 190.207.141.13==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL and tipo_op = 1 / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEwgYW5kIHRpcG9fb3AgPSAx
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================July 11, 2013, 3:32 pm / Client: 190.207.141.13==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL and tipo_op = 1 / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEwgYW5kIHRpcG9fb3AgPSAx
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================July 29, 2013, 11:13 am / Client: 190.203.108.10==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEw=
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================August 12, 2013, 10:49 am / Client: 190.203.115.77==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEw=
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================August 12, 2013, 2:24 pm / Client: 186.91.170.24==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL and tipo_op = 1 / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEwgYW5kIHRpcG9fb3AgPSAx
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================August 13, 2013, 9:49 am / Client: 190.203.115.77==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL and tipo_op = 1 / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEwgYW5kIHRpcG9fb3AgPSAx
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================August 13, 2013, 9:55 am / Client: 190.203.115.77==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL and tipo_op = 1 / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEwgYW5kIHRpcG9fb3AgPSAx
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================August 13, 2013, 9:56 am / Client: 190.203.115.77==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL and tipo_op = 1 / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEwgYW5kIHRpcG9fb3AgPSAx
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================August 13, 2013, 9:56 am / Client: 190.203.115.77==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL and tipo_op = 1 / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEwgYW5kIHRpcG9fb3AgPSAx
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================August 13, 2013, 10:04 am / Client: 190.203.115.77==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEw=
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================August 13, 2013, 10:07 am / Client: 190.203.115.77==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEw=
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================August 19, 2013, 6:31 pm / Client: 186.89.11.114==========================================
+Host: ñáñ, / Hash: localhost
+Login: y Ï≤+^∫«´ / Hash: ecrs_siteuser
+Pwd: ◊ù6€çw / Hash: 15022413
+Port:  / Hash: 
+DB:  / Hash: 
+ToDo: dbs
+SQL:  / Hash: 
+Query:  / Hash: 
+Table:  / Hash: 
+RecCount: 
+Skip: 
+==========================================August 19, 2013, 6:32 pm / Client: 186.89.11.114==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: information_schema / Hash: aW5mb3JtYXRpb25fc2NoZW1h
+ToDo: query_base64
+SQL:  / Hash: 
+Query: select * from tbl_user / Hash: c2VsZWN0ICogZnJvbSB0YmxfdXNlcg==
+Table:  / Hash: 
+RecCount: 10
+Skip: 
+==========================================August 19, 2013, 6:32 pm / Client: 186.89.11.114==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: information_schema / Hash: aW5mb3JtYXRpb25fc2NoZW1h
+ToDo: query_base64
+SQL:  / Hash: 
+Query: select * from tbl_users / Hash: c2VsZWN0ICogZnJvbSB0YmxfdXNlcnM=
+Table:  / Hash: 
+RecCount: 10
+Skip: 
+==========================================August 19, 2013, 6:32 pm / Client: 186.89.11.114==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: select * from tbl_users / Hash: c2VsZWN0ICogZnJvbSB0YmxfdXNlcnM=
+Table:  / Hash: 
+RecCount: 10
+Skip: 
+==========================================August 19, 2013, 6:32 pm / Client: 186.89.11.114==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: select * from tbl_user / Hash: c2VsZWN0ICogZnJvbSB0YmxfdXNlcg==
+Table:  / Hash: 
+RecCount: 10
+Skip: 
+==========================================August 19, 2013, 6:33 pm / Client: 186.89.11.114==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: select * from tbl_usuario / Hash: c2VsZWN0ICogZnJvbSB0YmxfdXN1YXJpbw==
+Table:  / Hash: 
+RecCount: 10
+Skip: 
+==========================================August 19, 2013, 6:33 pm / Client: 186.89.11.114==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: select * from tbl_usuarios / Hash: c2VsZWN0ICogZnJvbSB0YmxfdXN1YXJpb3M=
+Table:  / Hash: 
+RecCount: 10
+Skip: 
+==========================================August 19, 2013, 6:33 pm / Client: 186.89.11.114==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: select * from tbl_usuarios / Hash: c2VsZWN0ICogZnJvbSB0YmxfdXN1YXJpb3M=
+Table:  / Hash: 
+RecCount: 5
+Skip: 
+==========================================August 20, 2013, 1:07 am / Client: 186.89.11.114==========================================
+Host: ñáñ, / Hash: localhost
+Login: y Ï≤+^∫«´ / Hash: ecrs_siteuser
+Pwd: ◊ù6€çw / Hash: 15022413
+Port:  / Hash: 
+DB:  / Hash: 
+ToDo: dbs
+SQL:  / Hash: 
+Query:  / Hash: 
+Table:  / Hash: 
+RecCount: 
+Skip: 
+==========================================August 26, 2013, 2:40 pm / Client: 190.203.115.77==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEw=
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================August 26, 2013, 2:49 pm / Client: 190.203.115.77==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEw=
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================August 26, 2013, 2:56 pm / Client: 190.203.115.77==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEw=
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================August 27, 2013, 10:35 am / Client: 200.8.176.251==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEw=
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================August 27, 2013, 2:40 pm / Client: 200.8.176.251==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEw=
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================August 27, 2013, 2:44 pm / Client: 200.8.176.251==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEw=
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================August 27, 2013, 2:53 pm / Client: 200.8.176.251==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL and tipo_op = 1 / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEwgYW5kIHRpcG9fb3AgPSAx
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================August 27, 2013, 3:00 pm / Client: 200.8.176.251==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL and tipo_op = 1 / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEwgYW5kIHRpcG9fb3AgPSAx
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================August 27, 2013, 3:05 pm / Client: 200.8.176.251==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEw=
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================August 27, 2013, 4:53 pm / Client: 200.8.176.251==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL and tipo_op = 1 / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEwgYW5kIHRpcG9fb3AgPSAx
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================September 10, 2013, 7:57 am / Client: 190.203.115.77==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEw=
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================September 12, 2013, 4:08 pm / Client: 190.203.115.77==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL and tipo_op = 1 / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEwgYW5kIHRpcG9fb3AgPSAx
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================September 12, 2013, 4:09 pm / Client: 190.203.115.77==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL and tipo_op = 1 / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEwgYW5kIHRpcG9fb3AgPSAx
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================September 12, 2013, 4:21 pm / Client: 186.91.225.145==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEw=
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================September 12, 2013, 4:21 pm / Client: 186.91.225.145==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEw=
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================September 13, 2013, 8:26 am / Client: 190.203.115.77==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL and tipo_op = 1 / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEwgYW5kIHRpcG9fb3AgPSAx
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================September 13, 2013, 8:31 am / Client: 190.203.115.77==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEw=
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================September 18, 2013, 4:05 pm / Client: 190.203.115.77==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: UPDATE q_enajenacion SET fecha_enajenacion = NOW() WHERE id_cliente = J / Hash: VVBEQVRFIHFfZW5hamVuYWNpb24gU0VUIGZlY2hhX2VuYWplbmFjaW9uID0gTk9XKCkgV0hFUkUgaWRfY2xpZW50ZSA9IEoa
+Table:  / Hash: 
+RecCount: 
+Skip: 
+==========================================September 19, 2013, 4:33 pm / Client: 200.8.12.17==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL and tipo_op = 1 / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEwgYW5kIHRpcG9fb3AgPSAx
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================September 19, 2013, 4:35 pm / Client: 200.8.12.17==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL and tipo_op = 1 / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEwgYW5kIHRpcG9fb3AgPSAx
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================September 19, 2013, 4:36 pm / Client: 200.8.12.17==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL and tipo_op = 1 / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEwgYW5kIHRpcG9fb3AgPSAx
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================September 19, 2013, 4:37 pm / Client: 200.8.12.17==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL and tipo_op = 1 / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEwgYW5kIHRpcG9fb3AgPSAx
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================September 19, 2013, 4:37 pm / Client: 200.8.12.17==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL and tipo_op = 1 / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEwgYW5kIHRpcG9fb3AgPSAx
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================September 19, 2013, 4:38 pm / Client: 200.8.12.17==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL and tipo_op = 1 / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEwgYW5kIHRpcG9fb3AgPSAx
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================September 19, 2013, 9:01 pm / Client: 200.8.12.17==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL and tipo_op = 1 / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEwgYW5kIHRpcG9fb3AgPSAx
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================September 19, 2013, 9:04 pm / Client: 200.8.12.17==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL and tipo_op = 1 / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEwgYW5kIHRpcG9fb3AgPSAx
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================September 19, 2013, 9:04 pm / Client: 200.8.12.17==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL and tipo_op = 1 / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEwgYW5kIHRpcG9fb3AgPSAx
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================September 20, 2013, 9:41 am / Client: 200.8.188.226==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL and tipo_op = 1 / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEwgYW5kIHRpcG9fb3AgPSAx
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================September 20, 2013, 9:43 am / Client: 200.8.188.226==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL and tipo_op = 1 / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEwgYW5kIHRpcG9fb3AgPSAx
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================September 20, 2013, 9:45 am / Client: 200.8.188.226==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL and tipo_op = 1 / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEwgYW5kIHRpcG9fb3AgPSAx
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================September 20, 2013, 9:51 am / Client: 200.8.188.226==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL and tipo_op = 1 / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEwgYW5kIHRpcG9fb3AgPSAx
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================September 20, 2013, 10:11 am / Client: 190.39.122.146==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL and tipo_op = 1 / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEwgYW5kIHRpcG9fb3AgPSAx
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================September 20, 2013, 10:12 am / Client: 190.39.122.146==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL and tipo_op = 1 / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEwgYW5kIHRpcG9fb3AgPSAx
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================September 20, 2013, 12:46 pm / Client: 190.203.115.77==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEw=
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================September 20, 2013, 12:52 pm / Client: 190.203.115.77==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEw=
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================September 20, 2013, 1:54 pm / Client: 190.203.115.77==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEw=
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================September 20, 2013, 2:04 pm / Client: 190.39.122.146==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL and tipo_op = 1 / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEwgYW5kIHRpcG9fb3AgPSAx
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================September 20, 2013, 2:05 pm / Client: 190.39.122.146==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL and tipo_op = 1 / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEwgYW5kIHRpcG9fb3AgPSAx
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================September 20, 2013, 2:06 pm / Client: 190.39.122.146==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL and tipo_op = 1 / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEwgYW5kIHRpcG9fb3AgPSAx
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================September 20, 2013, 2:06 pm / Client: 190.39.122.146==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL and tipo_op = 1 / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEwgYW5kIHRpcG9fb3AgPSAx
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================September 20, 2013, 2:07 pm / Client: 190.39.122.146==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL and tipo_op = 1 / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEwgYW5kIHRpcG9fb3AgPSAx
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================September 20, 2013, 2:12 pm / Client: 190.203.115.77==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEw=
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================September 20, 2013, 2:12 pm / Client: 190.203.115.77==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEw=
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================September 20, 2013, 2:13 pm / Client: 190.39.122.146==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL and tipo_op = 1 / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEwgYW5kIHRpcG9fb3AgPSAx
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================September 20, 2013, 2:29 pm / Client: 190.203.115.77==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEw=
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================September 20, 2013, 2:29 pm / Client: 190.203.115.77==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEw=
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================September 20, 2013, 2:30 pm / Client: 190.203.115.77==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEw=
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================September 20, 2013, 2:33 pm / Client: 190.203.115.77==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEw=
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================September 20, 2013, 2:34 pm / Client: 190.203.115.77==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEw=
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================September 20, 2013, 2:35 pm / Client: 190.203.115.77==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEw=
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================September 20, 2013, 2:36 pm / Client: 190.203.115.77==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEw=
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================September 20, 2013, 2:36 pm / Client: 190.203.115.77==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEw=
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================September 20, 2013, 3:36 pm / Client: 190.203.115.77==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEw=
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================September 20, 2013, 3:53 pm / Client: 200.109.190.170==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEw=
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================September 23, 2013, 8:19 am / Client: 190.203.115.77==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEw=
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================September 23, 2013, 9:12 am / Client: 190.203.115.77==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEw=
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================September 25, 2013, 11:21 am / Client: 190.36.159.201==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEw=
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================September 25, 2013, 11:23 am / Client: 190.36.159.201==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEw=
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================October 18, 2013, 8:12 am / Client: 190.39.65.108==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL and tipo_op = 1 / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEwgYW5kIHRpcG9fb3AgPSAx
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================October 18, 2013, 8:29 am / Client: 190.39.65.108==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL and tipo_op = 1 / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEwgYW5kIHRpcG9fb3AgPSAx
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================October 18, 2013, 8:31 am / Client: 190.39.65.108==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL and tipo_op = 1 / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEwgYW5kIHRpcG9fb3AgPSAx
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================October 18, 2013, 12:46 pm / Client: 190.203.115.77==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEw=
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================October 29, 2013, 2:08 pm / Client: 190.39.142.32==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEw=
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================November 14, 2013, 12:57 pm / Client: 190.203.115.77==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEw=
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================November 14, 2013, 1:43 pm / Client: 190.203.115.77==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEw=
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================November 14, 2013, 1:52 pm / Client: 190.203.115.77==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEw=
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================November 14, 2013, 1:52 pm / Client: 190.203.115.77==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEw=
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================November 14, 2013, 1:54 pm / Client: 190.203.115.77==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEw=
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================November 14, 2013, 1:54 pm / Client: 190.203.115.77==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEw=
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================November 14, 2013, 1:54 pm / Client: 190.203.115.77==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEw=
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================November 14, 2013, 1:55 pm / Client: 190.203.115.77==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEw=
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================November 21, 2013, 9:44 am / Client: 186.95.193.245==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEw=
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================November 21, 2013, 9:47 am / Client: 186.95.193.245==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEw=
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================November 25, 2013, 12:03 pm / Client: 186.95.193.245==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEw=
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================November 25, 2013, 12:27 pm / Client: 186.95.193.245==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEw=
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================November 25, 2013, 12:29 pm / Client: 186.95.193.245==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEw=
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================November 25, 2013, 12:49 pm / Client: 186.95.193.245==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEw=
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================November 25, 2013, 1:36 pm / Client: 186.95.193.245==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEw=
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================November 25, 2013, 1:36 pm / Client: 186.95.193.245==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEw=
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================December 2, 2013, 9:41 am / Client: 190.72.224.19==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEw=
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================December 3, 2013, 12:52 pm / Client: 190.72.224.19==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEw=
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================December 5, 2013, 8:34 am / Client: 190.39.65.108==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL and tipo_op = 1 / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEwgYW5kIHRpcG9fb3AgPSAx
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================December 5, 2013, 8:39 am / Client: 190.39.65.108==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL and tipo_op = 1 / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEwgYW5kIHRpcG9fb3AgPSAx
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================December 5, 2013, 8:41 am / Client: 190.39.65.108==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL and tipo_op = 1 / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEwgYW5kIHRpcG9fb3AgPSAx
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================December 5, 2013, 8:44 am / Client: 190.39.65.108==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL and tipo_op = 1 / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEwgYW5kIHRpcG9fb3AgPSAx
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================December 5, 2013, 8:53 am / Client: 190.39.65.108==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL and tipo_op = 1 / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEwgYW5kIHRpcG9fb3AgPSAx
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================January 22, 2014, 2:15 pm / Client: 186.88.18.128==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL and tipo_op = 1 / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEwgYW5kIHRpcG9fb3AgPSAx
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================January 22, 2014, 2:26 pm / Client: 186.88.18.128==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL and tipo_op = 1 / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEwgYW5kIHRpcG9fb3AgPSAx
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================January 22, 2014, 2:28 pm / Client: 186.88.18.128==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL and tipo_op = 1 / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEwgYW5kIHRpcG9fb3AgPSAx
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================January 22, 2014, 2:28 pm / Client: 186.88.18.128==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL and tipo_op = 1 / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEwgYW5kIHRpcG9fb3AgPSAx
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================January 22, 2014, 2:28 pm / Client: 186.88.18.128==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL and tipo_op = 1 / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEwgYW5kIHRpcG9fb3AgPSAx
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================January 22, 2014, 2:29 pm / Client: 186.88.18.128==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL and tipo_op = 1 / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEwgYW5kIHRpcG9fb3AgPSAx
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================January 22, 2014, 2:29 pm / Client: 186.88.18.128==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL and tipo_op = 1 / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEwgYW5kIHRpcG9fb3AgPSAx
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================January 23, 2014, 11:19 am / Client: 186.88.18.128==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL and tipo_op = 1 / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEwgYW5kIHRpcG9fb3AgPSAx
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================January 23, 2014, 11:19 am / Client: 186.88.18.128==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL and tipo_op = 1 / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEwgYW5kIHRpcG9fb3AgPSAx
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================January 23, 2014, 1:25 pm / Client: 186.88.18.128==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL and tipo_op = 1 / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEwgYW5kIHRpcG9fb3AgPSAx
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================January 23, 2014, 1:25 pm / Client: 186.88.18.128==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL and tipo_op = 1 / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEwgYW5kIHRpcG9fb3AgPSAx
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================January 23, 2014, 1:28 pm / Client: 186.88.18.128==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL and tipo_op = 1 / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEwgYW5kIHRpcG9fb3AgPSAx
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================January 23, 2014, 1:30 pm / Client: 186.88.18.128==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL and tipo_op = 1 / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEwgYW5kIHRpcG9fb3AgPSAx
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================January 23, 2014, 1:30 pm / Client: 186.88.18.128==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL and tipo_op = 1 / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEwgYW5kIHRpcG9fb3AgPSAx
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================January 23, 2014, 1:34 pm / Client: 186.88.18.128==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL and tipo_op = 1 / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEwgYW5kIHRpcG9fb3AgPSAx
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================January 23, 2014, 2:20 pm / Client: 186.88.18.128==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL and tipo_op = 1 / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEwgYW5kIHRpcG9fb3AgPSAx
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================January 23, 2014, 2:20 pm / Client: 186.88.18.128==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL and tipo_op = 1 / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEwgYW5kIHRpcG9fb3AgPSAx
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================January 23, 2014, 2:24 pm / Client: 186.88.18.128==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL and tipo_op = 1 / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEwgYW5kIHRpcG9fb3AgPSAx
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================January 23, 2014, 2:24 pm / Client: 186.88.18.128==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL and tipo_op = 1 / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEwgYW5kIHRpcG9fb3AgPSAx
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================January 24, 2014, 9:00 am / Client: 186.88.18.128==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL and tipo_op = 1 / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEwgYW5kIHRpcG9fb3AgPSAx
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================January 24, 2014, 9:01 am / Client: 186.88.18.128==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL and tipo_op = 1 / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEwgYW5kIHRpcG9fb3AgPSAx
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================January 24, 2014, 9:01 am / Client: 186.88.18.128==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL and tipo_op = 1 / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEwgYW5kIHRpcG9fb3AgPSAx
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================January 24, 2014, 9:01 am / Client: 186.88.18.128==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL and tipo_op = 1 / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEwgYW5kIHRpcG9fb3AgPSAx
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================January 28, 2014, 10:22 am / Client: 186.88.18.128==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL and tipo_op = 1 / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEwgYW5kIHRpcG9fb3AgPSAx
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================February 18, 2014, 10:36 am / Client: 186.88.18.128==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL and tipo_op = 1 / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEwgYW5kIHRpcG9fb3AgPSAx
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================February 18, 2014, 10:37 am / Client: 186.88.18.128==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL and tipo_op = 1 / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEwgYW5kIHRpcG9fb3AgPSAx
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================February 18, 2014, 10:37 am / Client: 186.88.18.128==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL and tipo_op = 1 / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEwgYW5kIHRpcG9fb3AgPSAx
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================February 20, 2014, 10:28 am / Client: 186.88.18.128==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEw=
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================February 20, 2014, 11:29 am / Client: 186.88.18.128==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEw=
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================February 21, 2014, 7:56 am / Client: 186.88.18.128==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEw=
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================February 21, 2014, 8:19 am / Client: 186.88.18.128==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEw=
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================February 27, 2014, 12:03 pm / Client: 190.207.192.115==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL and tipo_op = 1 / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEwgYW5kIHRpcG9fb3AgPSAx
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================February 27, 2014, 12:06 pm / Client: 190.207.192.115==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL and tipo_op = 1 / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEwgYW5kIHRpcG9fb3AgPSAx
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================March 5, 2014, 2:00 pm / Client: 190.39.65.108==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL and tipo_op = 1 / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEwgYW5kIHRpcG9fb3AgPSAx
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================April 1, 2014, 10:43 am / Client: 186.88.18.128==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEw=
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================April 1, 2014, 10:50 am / Client: 186.88.18.128==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEw=
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================April 1, 2014, 10:54 am / Client: 186.88.18.128==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEw=
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================April 1, 2014, 2:13 pm / Client: 186.88.18.128==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEw=
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================April 2, 2014, 12:14 pm / Client: 186.88.18.128==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEw=
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================April 2, 2014, 1:06 pm / Client: 186.88.18.128==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEw=
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================April 4, 2014, 12:53 pm / Client: 186.88.18.128==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEw=
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================April 10, 2014, 9:34 am / Client: 186.88.18.128==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEw=
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================April 10, 2014, 1:10 pm / Client: 186.88.18.128==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEw=
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================April 15, 2014, 1:46 pm / Client: 190.204.234.53==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL and tipo_op = 1 / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEwgYW5kIHRpcG9fb3AgPSAx
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================April 15, 2014, 1:46 pm / Client: 190.204.234.53==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL and tipo_op = 1 / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEwgYW5kIHRpcG9fb3AgPSAx
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================April 15, 2014, 1:46 pm / Client: 186.88.18.128==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEw=
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================April 15, 2014, 1:46 pm / Client: 190.204.234.53==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL and tipo_op = 1 / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEwgYW5kIHRpcG9fb3AgPSAx
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================April 15, 2014, 1:48 pm / Client: 190.204.234.53==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL and tipo_op = 1 / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEwgYW5kIHRpcG9fb3AgPSAx
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================April 15, 2014, 1:56 pm / Client: 190.204.234.53==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEw=
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================April 15, 2014, 2:05 pm / Client: 190.204.234.53==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEw=
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================April 15, 2014, 2:24 pm / Client: 190.204.234.53==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEw=
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================April 23, 2014, 12:14 pm / Client: 190.206.214.55==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEw=
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================April 23, 2014, 1:55 pm / Client: 190.206.214.55==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEw=
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================April 23, 2014, 2:04 pm / Client: 190.206.214.55==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEw=
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================May 2, 2014, 2:08 pm / Client: 190.39.65.108==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL and tipo_op = 1 / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEwgYW5kIHRpcG9fb3AgPSAx
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================May 5, 2014, 8:15 am / Client: 190.39.65.108==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL and tipo_op = 1 / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEwgYW5kIHRpcG9fb3AgPSAx
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================May 6, 2014, 9:25 am / Client: 190.39.65.108==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL and tipo_op = 1 / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEwgYW5kIHRpcG9fb3AgPSAx
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================May 6, 2014, 9:53 am / Client: 190.39.65.108==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL and tipo_op = 1 / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEwgYW5kIHRpcG9fb3AgPSAx
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================May 22, 2014, 9:52 am / Client: 186.91.226.212==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL and tipo_op = 1 / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEwgYW5kIHRpcG9fb3AgPSAx
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================May 22, 2014, 9:54 am / Client: 186.91.226.212==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL and tipo_op = 1 / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEwgYW5kIHRpcG9fb3AgPSAx
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================May 22, 2014, 10:15 am / Client: 186.91.226.212==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL and tipo_op = 1 / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEwgYW5kIHRpcG9fb3AgPSAx
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================May 22, 2014, 3:15 pm / Client: 186.91.226.212==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL and tipo_op = 1 / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEwgYW5kIHRpcG9fb3AgPSAx
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================June 12, 2014, 8:35 am / Client: 190.39.65.108==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL and tipo_op = 1 / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEwgYW5kIHRpcG9fb3AgPSAx
+Table:  / Hash: 
+RecCount: 100
+Skip: 
+==========================================July 11, 2014, 3:21 pm / Client: 190.37.11.223==========================================
+Host: localhost / Hash: bG9jYWxob3N0
+Login: ecrs_siteuser / Hash: ZWNyc19zaXRldXNlcg==
+Pwd: 15022413 / Hash: MTUwMjI0MTM=
+Port: 3306 / Hash: MzMwNg==
+DB: ecrs_website / Hash: ZWNyc193ZWJzaXRl
+ToDo: query_base64
+SQL:  / Hash: 
+Query: SELECT * From q_enajenacion WHERE fecha_enajenacion IS NULL / Hash: U0VMRUNUICogRnJvbSBxX2VuYWplbmFjaW9uIFdIRVJFIGZlY2hhX2VuYWplbmFjaW9uIElTIE5VTEw=
+Table:  / Hash: 
+RecCount: 100
+Skip: 

@@ -1,0 +1,1 @@
+[16-Nov-2012 14:01:34] PHP Fatal error:  Call to a member function chkPermisosAdmin() on a non-object in /home/ecrs/public_html/admin/modules/noticias.php on line 2

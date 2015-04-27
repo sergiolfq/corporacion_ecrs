@@ -1,0 +1,36 @@
+[15-Aug-2013 16:26:26] PHP Fatal error:  Uncaught exception 'Exception' with message 'The call failed: ' in /home/ecrs/public_html/soporte/dal/sql_helper.php:30
+Stack trace:
+#0 /home/ecrs/public_html/soporte/services/fiscalizar.back.php(134): sql_helper::exec_query('CALL Prc_GetEna...')
+#1 /home/ecrs/public_html/soporte/fiscalizar.php(1): include('/home/ecrs/publ...')
+#2 {main}
+  thrown in /home/ecrs/public_html/soporte/dal/sql_helper.php on line 30
+[27-Nov-2013 18:05:48] PHP Fatal error:  Uncaught exception 'Exception' with message 'The call failed: ' in /home/ecrs/public_html/soporte/dal/sql_helper.php:30
+Stack trace:
+#0 /home/ecrs/public_html/soporte/services/fiscalizar.back.php(134): sql_helper::exec_query('CALL Prc_GetEna...')
+#1 /home/ecrs/public_html/soporte/fiscalizar.php(1): include('/home/ecrs/publ...')
+#2 {main}
+  thrown in /home/ecrs/public_html/soporte/dal/sql_helper.php on line 30
+[29-May-2014 15:32:43] PHP Fatal error:  Uncaught exception 'Exception' with message 'The call failed: ' in /home/ecrs/public_html/soporte/dal/sql_helper.php:30
+Stack trace:
+#0 /home/ecrs/public_html/soporte/services/enajenar.back.php(197): sql_helper::exec_query('SELECT Fnc_AddU...', ''J003510106','D...')
+#1 /home/ecrs/public_html/soporte/enajenar.php(1): include('/home/ecrs/publ...')
+#2 {main}
+  thrown in /home/ecrs/public_html/soporte/dal/sql_helper.php on line 30
+[03-Jun-2014 16:22:33] PHP Fatal error:  Uncaught exception 'Exception' with message 'The call failed: ' in /home/ecrs/public_html/soporte/dal/sql_helper.php:30
+Stack trace:
+#0 /home/ecrs/public_html/soporte/services/enajenar.back.php(197): sql_helper::exec_query('SELECT Fnc_AddU...', ''J316417654','I...')
+#1 /home/ecrs/public_html/soporte/enajenar.php(1): include('/home/ecrs/publ...')
+#2 {main}
+  thrown in /home/ecrs/public_html/soporte/dal/sql_helper.php on line 30
+[27-Jun-2014 15:40:38] PHP Fatal error:  Uncaught exception 'Exception' with message 'The call failed: ' in /home/ecrs/public_html/soporte/dal/sql_helper.php:30
+Stack trace:
+#0 /home/ecrs/public_html/soporte/services/enajenar.back.php(197): sql_helper::exec_query('SELECT Fnc_AddU...', ''J003510106','D...')
+#1 /home/ecrs/public_html/soporte/enajenar.php(1): include('/home/ecrs/publ...')
+#2 {main}
+  thrown in /home/ecrs/public_html/soporte/dal/sql_helper.php on line 30
+[27-Jun-2014 15:45:35] PHP Fatal error:  Uncaught exception 'Exception' with message 'The call failed: ' in /home/ecrs/public_html/soporte/dal/sql_helper.php:30
+Stack trace:
+#0 /home/ecrs/public_html/soporte/services/enajenar.back.php(197): sql_helper::exec_query('SELECT Fnc_AddU...', ''J003510106','D...')
+#1 /home/ecrs/public_html/soporte/enajenar.php(1): include('/home/ecrs/publ...')
+#2 {main}
+  thrown in /home/ecrs/public_html/soporte/dal/sql_helper.php on line 30

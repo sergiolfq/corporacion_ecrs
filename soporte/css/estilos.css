@@ -1,0 +1,560 @@
+
+html, body, form, table#main
+{
+	margin: 0;
+	padding: 0;
+	font-size: 11px;
+	font-family: Arial;
+	height: 100%;
+	width: 100%;
+	border: none;
+	position: absolute;
+}
+
+#main 
+{
+	margin: 0 auto;
+	text-align: left;
+	vertical-align: super;
+}
+
+.BotonNormal
+{
+	font-weight: normal;
+	font-size: 11px;
+	width: 150px;
+	color: black;
+	font-style: normal;
+	font-family: Arial;
+	height: 25px;
+	font-variant: normal;
+}
+
+.TablaNormal
+{
+	border-right: 0px;
+	padding-right: 0px;
+	border-top: 0px;
+	padding-left: 0px;
+	font-weight: normal;
+	font-size: 11px;
+	padding-bottom: 0px;
+	border-left: 0px;
+	line-height: 22px;
+	padding-top: 0px;
+	border-bottom: 0px;
+	font-family: Arial;
+	margin-left: 10px;
+}
+.TablaNormalEspecial
+{
+	border-right: 0px;
+	padding-right: 0px;
+	border-top: 0px;
+	padding-left: 0px;
+	font-weight: normal;
+	font-size: 11px;
+	padding-bottom: 0px;
+	border-left: 0px;
+	padding-top: 0px;
+	border-bottom: 0px;
+	font-family: Arial;
+}
+.TablaFooter
+{
+	border-right: 0px;
+	padding-right: 0px;
+	border-top: 0px;
+	padding-left: 0px;
+	font-weight: normal;
+	font-size: 11px;
+	padding-bottom: 0px;
+	border-left: 0px;
+	padding-top: 0px;
+	border-bottom: 0px;
+	font-family: Arial;
+	padding:0px;
+	color: #4A3C8C;
+	background-color: #b5c7de;
+}
+
+.EtiquetaNormal
+{
+	font-size: 11px;
+	font-family: Arial;
+	text-align: left;
+}
+
+.CampoObligatorio
+{
+	font-size: 12px;
+	font-family: Arial;
+}
+
+.EtiquetaItems
+{
+	font-size: 11px;
+	font-family: Arial;
+	color: #4A3C8C;
+}
+
+.EtiquetaDerecha
+{
+	font-size: 11px;
+	font-family: Arial;	
+	text-align: right;
+}
+.EtiquetaIzquierda
+{
+	font-size: 11px;
+	font-family: Arial;	
+	text-align: left;
+}
+
+.EtiquetaCentrada
+{
+	font-size: 11px;
+	font-family: Arial;	
+	text-align: center;
+}
+
+.TextoNormal
+{
+	font-weight: normal;
+	font-size: 11px;
+	vertical-align: baseline;
+	width: 150px;
+	color: black;
+	font-style: normal;
+	font-family: Arial;
+	height: 21px;
+	text-align: left;
+	font-variant: normal;
+	background: White;
+}
+
+.TextoCajaNormal
+{
+	font-weight: normal;
+	font-size: 11px;
+	vertical-align: baseline;
+	color: black;
+	font-style: normal;
+	font-family: Arial;
+	text-align: left;
+	font-variant: normal;
+	background: White;
+}
+
+.TextoBloqueado
+{
+	font-weight: normal;
+	font-size: 11px;
+	vertical-align: baseline;
+	width: 150px;
+	color: black;
+	font-style: normal;
+	font-family: Arial;
+	height: 21px;
+	text-align: left;
+	font-variant: normal;
+	background: #E7E7FF;
+	color: #4A3C8C;
+}
+.TextoDerecha
+{
+	font-weight: normal;
+	font-size: 11px;
+	vertical-align: baseline;
+	width: 150px;
+	color: black;
+	font-style: normal;
+	font-family: Arial;
+	height: 21px;
+	text-align: right;
+	font-variant: normal;
+	background: White;
+
+}
+
+.TextoDerechaBloqueado
+{
+	font-weight: normal;
+	font-size: 11px;
+	vertical-align: baseline;
+	width: 150px;
+	font-style: normal;
+	font-family: Arial;
+	height: 21px;
+	text-align: right;
+	font-variant: normal;
+	background: #E7E7FF;
+	color: #4A3C8C;
+}
+
+.TextoDeshabilitado
+{
+	font-weight: normal;
+	font-size: 11px;
+	vertical-align: baseline;
+	width: 150px;
+	font-style: normal;
+	font-family: Arial;
+	height: 21px;
+	text-align: left;
+	font-variant: normal;
+	background: #E7E7FF;
+	color: #4A3C8C;
+	text-align: right;
+}
+
+
+.EtiquetaTitulo
+{
+	font-weight: bold;
+	font-size: 12px;
+	background: #4A3C8C;
+	color: #F7F7F7;
+	font-family: Arial;
+	width: 650px;
+}
+
+.EtiquetaTituloCentrado
+{
+	font-weight: bold;
+	font-size: 12px;
+	background: #4A3C8C;
+	color: #F7F7F7;
+	font-family: Arial;
+	width: 650px;
+	text-align: center;
+}
+
+.ComboNormal
+{
+	font-weight: normal;
+	font-size: 11px;
+	color: black;
+	font-style: normal;
+	font-family: Arial;
+	font-variant: normal;
+}
+
+.HypervinculoTitulo
+{
+	font-weight: normal;
+	font-size: 11px;
+	
+	color: #F7F7F7;
+	font-family: Arial;
+}
+
+.TablaAgregar
+{
+	font-size: 11px;
+	color: #F7F7F7;
+	font-family: Arial;
+	background-color: #738a9c;
+}
+
+.GridNormal
+{
+	font-size: 11px;
+	font-family: Arial;
+}
+
+.ValidadorNormal
+{
+	font-size: 12px;
+	color: Red;
+}
+
+.ValidadorSumarioNormal
+{
+	background: Yellow;
+	font-size: 11px;
+	color: Red;
+}
+
+.LineaGridItem
+{
+	font-size: 11px;
+	font-family: Arial;
+	background-color: #e7e7ff;
+	color: #4A3C8C;
+}
+
+.LineaGridItemAlternado
+{
+	font-size: 11px;
+	font-family: Arial;
+	background-color: #F7F7F7;
+	color: #4A3C8C;
+}
+
+.TituloGrid
+{
+	font-size: 11px;
+	font-family: Arial;
+	background-color: #4A3C8C;
+	color: #F7F7F7;
+}
+
+.TituloGridCentrada
+{
+	font-size: 11px;
+	font-family: Arial;
+	background-color: #4A3C8C;
+	color: #F7F7F7;
+	text-align:center;
+}
+
+.TituloGridDerecha
+{
+	font-size: 11px;
+	font-family: Arial;
+	background-color: #4A3C8C;
+	color: #F7F7F7;
+	text-align: right;
+}
+
+.TextoEtiquetaDerecha
+{
+	background-color: Transparent;
+	border: none;
+	font-size: 11px;
+	font-family: Arial;	
+	text-align: right;
+	color: #4A3C8C;
+}
+
+.TextoEtiquetaIzquierda
+{
+	background-color: Transparent;
+	border: none;
+	font-size: 11px;
+	font-family: Arial;	
+	text-align: left;
+	color: #4A3C8C;
+}
+
+.TextoEtiquetaCentral
+{
+	background-color: Transparent;
+	border: none;
+	font-size: 11px;
+	
+	font-family: Arial;	
+	text-align: center;
+	color: #4A3C8C;
+}
+
+.TextoEtiquetaDerechaTitulo
+{
+	background-color: Transparent;
+	border: none;
+	font-size: 11px;
+	font-family: Arial;	
+	text-align: right;
+	color: #F7F7F7;
+}
+.ListaRadioBotones
+{
+	font-weight: normal;
+	font-size: 11px;
+	font-style: normal;
+	font-family: Arial;
+}
+
+.ListaSeleccionMultiple
+{
+	font-size: 11px;
+	font-family: Arial;
+	color: #4A3C8C;		
+	background: #E7E7FF;
+	height: 224px;
+	width: 272px;
+}
+.EtiquetaTituloSimple
+{
+	font-size: 11px;
+	background: #4A3C8C;
+	color: #F7F7F7;
+	font-family: Arial;
+	width: 650px;
+}
+.EtiquetaDerechaNegrita
+{
+	font-weight: bold;
+	font-size: 11px;
+	font-family: Arial;
+	text-align: right;
+}
+.EtiquetaNormalCentrado
+{
+	font-size: 11px;
+	font-family: Arial;
+	text-align: center;
+}
+.EtiquetaPequenaCentrado
+{
+	font-size: 10px;
+	font-family: Arial;
+	text-align: center;
+	height: 100%;
+	width: 100%;
+}
+.EtiquetaLimpiaCentrado
+{
+	font-size: 10px;
+	font-family: Arial;
+	text-align: center;
+	height: 50px;
+	width: 50px;
+}
+
+
+
+    .Gridview
+    {
+        text-align: center;
+    }
+    .Gridview_cabecera
+    {
+        font-family: Verdana, Helvetica, sans-serif;
+        font-size: 11px;
+        font-weight: normal;
+        font-weight: bold;
+        text-align: center;
+        color: Green;
+        line-height: 12px;
+    }
+    .Gridview_cuerpo
+    {
+        font-family: Verdana, Helvetica, sans-serif;
+        font-size: 11px;
+        font-weight: normal;
+        text-align: center;
+        line-height: 12px;
+    }
+    .Detailsview_cabecera
+    {
+        font-family: Verdana, Helvetica, sans-serif;
+        font-size: 12px;
+        font-weight: normal;
+        text-align: center;
+        vertical-align: middle;
+    }
+    .Detailsview_cuerpo
+    {
+        font-family: Verdana, Helvetica, sans-serif;
+        font-size: 9px;
+        font-weight: normal;
+        text-align: left;
+        line-height: 12px;
+    }
+    .modalBackground
+    {
+        background-color: Gray;
+        filter: alpha(opacity=70);
+        opacity: 0.7;        
+    }
+    .modalPopup
+    {
+        background-color: #FFF;
+        border: solid 3px #333;
+        padding: 3px;
+        position: relative;
+        top: 0px;
+        left: 0px;
+    }
+    .buttons
+    {
+        display: block;
+        float: left;
+        margin: 0 7px 0 0;
+        background-color: #f5f5f5;
+        border: 1px solid #dedede;
+        border-top: 1px solid #eee;
+        border-left: 1px solid #eee;
+        font-family: Helvetica, Verdana, sans-serif;
+        font-size: 100%;
+        line-height: 130%;
+        text-decoration: none;
+        font-weight: bold;
+        color: #565656;
+        cursor: pointer;
+        padding: 5px 10px 6px 7px;
+        text-align: center;
+        color: Gray;
+    }
+    .Normal
+    {
+        font-family: Verdana, Helvetica, sans-serif;
+        font-size: 11px;
+        font-weight: normal;
+        text-align: center;
+        line-height: 12px;
+    }
+    .NormalL
+    {
+        font-family: Verdana, Helvetica, sans-serif;
+        font-size: 15px;
+        font-weight: normal;
+        line-height: 12px;
+    }
+    
+#listItem {
+	font:12px Arial, Helvetica, sans-serif;
+	width:200px;
+	background-color:#FFF;
+	border:1px solid #DDD;
+	}
+#listItem optgroup option	{
+	padding:3px 0px 3px 15px;
+	border-bottom-width:1px;
+	border-bottom-style:solid;
+	}
+#listItem optgroup.galerias {
+	background-color:#e6e6c2;
+	color: #919245;
+	}
+#listItem optgroup.correo	{
+	background-color:#c2e1e6;
+	color:#336699;
+	}
+#listItem optgroup.galerias	{
+	border-bottom-color:#8e8e83;
+	}
+
+/* Content Page Layout */
+.demoarea {
+	padding:20px;
+	background:#FFF url(images/demotop.png) no-repeat left top;
+}
+
+.demoarea p 
+{
+	padding:5px;
+}
+
+.demoheading {
+	padding-bottom:20px;
+	color:#5377A9;
+	font-family:Arial, Sans-Serif;
+	font-weight:bold;
+	font-size:2.5em;
+}
+
+.demobottom {
+	height:8px;
+	background:#FFF url(images/demobottom.png) no-repeat left bottom;
+}
+
+.titulos {
+	padding-bottom:20px;
+	color:#5377A9;
+	font-family:Arial, Sans-Serif;
+	font-weight:bold;
+	font-size:1.5em;
+}

@@ -1,0 +1,126 @@
+.slides {
+    padding: 0;
+    width: 690px;
+    height: 205px;
+    display: block;
+    margin: 0 auto;
+    position: relative;
+	margin-left:-25px;
+}
+
+.slides * {
+    user-select: none;
+    -ms-user-select: none;
+    -moz-user-select: none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    -webkit-touch-callout: none;
+}
+
+.slides input { display: none; }
+
+.slide-container { display: block; }
+
+.slide {
+    top: 0;
+    opacity: 0;
+    width: 623px;
+    height: 185px;
+    display: block;
+    position: absolute;
+
+    transform: scale(0);
+
+    transition: all .7s ease-in-out;
+	margin-left:25px;
+}
+
+.slide img {
+    float:left;
+	margin: 27px 50px 0 60px;
+}
+
+.nav_b label {
+    width: 25px;
+    height: 185px;
+    display: none;
+    position: absolute;
+
+	  opacity: 0;
+    z-index: 9;
+    cursor: pointer;
+
+    transition: opacity .2s;
+
+    color: #FFF;
+    font-size: 46pt;
+    text-align: center;
+    line-height: 174px;
+	text-indent: -100000px;
+}
+
+.slide:hover + .nav_b label { opacity: 0.5; }
+
+.nav_b label:hover { opacity: 1; }
+
+.nav_b .next { right: 0; }
+
+input:checked + .slide-container  .slide {
+    opacity: 1;
+
+    transform: scale(1);
+
+    transition: opacity 1s ease-in-out;
+}
+
+input:checked + .slide-container .nav_b label { display: block; }
+
+.nav-dots {
+	width: 100%;
+	bottom: 9px;
+	height: 11px;
+	display: block;
+	position: absolute;
+	text-align: center;
+}
+
+.nav-dots .nav-dot {
+	top: -5px;
+	width: 11px;
+	height: 11px;
+	margin: 0 4px;
+	position: relative;
+	border-radius: 100%;
+	display: inline-block;
+	background-color: rgba(0, 0, 0, 0.6);
+}
+
+.nav-dots .nav-dot:hover {
+	cursor: pointer;
+	background-color: rgba(0, 0, 0, 0.8);
+}
+
+input#img-1:checked ~ .nav-dots label#img-dot-1,
+input#img-2:checked ~ .nav-dots label#img-dot-2,
+input#img-3:checked ~ .nav-dots label#img-dot-3,
+input#img-4:checked ~ .nav-dots label#img-dot-4,
+input#img-5:checked ~ .nav-dots label#img-dot-5,
+input#img-6:checked ~ .nav-dots label#img-dot-6
+input#img-7:checked ~ .nav-dots label#img-dot-7,
+input#img-8:checked ~ .nav-dots label#img-dot-8 
+input#img-9:checked ~ .nav-dots label#img-dot-9
+input#img-10:checked ~ .nav-dots label#img-dot-10 
+input#img-11:checked ~ .nav-dots label#img-dot-11 
+input#img-12:checked ~ .nav-dots label#img-dot-12
+input#img-12b:checked ~ .nav-dots label#img-dot-12b
+input#img-13:checked ~ .nav-dots label#img-dot-13
+input#img-14:checked ~ .nav-dots label#img-dot-14
+input#img-15:checked ~ .nav-dots label#img-dot-15 {
+	background: rgba(0, 0, 0, 0.8);
+}
+.slides h4, .slides h3 {margin:20px 0 0;line-height:30px;}
+.slides .submit_red {
+float: left;
+text-decoration: none;
+margin-top:17px;
+}
